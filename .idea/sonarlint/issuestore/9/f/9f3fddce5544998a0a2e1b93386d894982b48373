@@ -1,0 +1,15 @@
+
+V	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Ÿß¼½
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ïW
+]
+java:S2259K"BA "NullPointerException" could be thrown; "buku" is nullable here.(ª’Ş²øÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Âïıåûÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Ï¬äÿÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(èî¼’ûÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(”¬¤‡ÿÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(Š¦Ú¹
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(Œùç%
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(†ó…º
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(°ïƒã
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ü¸¹¯ıÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(…æ¢’ùÿÿÿÿ

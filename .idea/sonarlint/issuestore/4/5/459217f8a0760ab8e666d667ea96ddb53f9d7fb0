@@ -1,0 +1,16 @@
+
+W	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(éá¿
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ïW
+]
+java:S2259N"GA "NullPointerException" could be thrown; "mahasiswa" is nullable here.(²¸è
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(»“´÷øÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ë¼¿Ö
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(¿ê‡Z
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(á³´“ûÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(˜£Úİúÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(úë™Õşÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ºšÑÄÿÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ğè‹şÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Üë“’ıÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ÌòÇ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ï‹©Ãùÿÿÿÿ
